@@ -1,2 +1,2 @@
-# average of number
- A program to find the average of given array..
+# Greater number
+ find the greatest number from a given array
